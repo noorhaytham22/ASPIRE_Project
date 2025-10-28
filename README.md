@@ -35,31 +35,43 @@ The ASPIRE project analysis revealed that Artec Corporation is well-positioned t
 - December recorded the highest monthly order volume, confirming a consistent seasonality trend linked to Christmas demand. This pattern underscores the need for proactive inventory and marketing planning ahead of the peak season.
 - Cluster analysis identified three distinct customer segments, revealing that low-distance, low-cost clusters yield higher sales efficiency. This segmentation supports targeted pricing and marketing to sustain growth beyond peak periods.
 
+<img width="939" height="495" alt="image" src="https://github.com/user-attachments/assets/634325d2-0cc9-41fa-9937-15b2ccbae71a" />
+
 #### Distribution and Cost Efficiency
 - The average distribution cost per order was the lowest among all expense categories, confirming effective logistics management. However, product cost remained the largest expense, emphasizing a reliance on imported materials that inflates overall production costs.
 - Artec’s global facility network across six continents minimizes customer distance, contributing to lower distribution costs per unit and faster delivery times. This historical strength continues to underpin Artec’s competitiveness.
 - A mismatch between vendor and customer locations in certain regions, notably South America which currently has no vendor presence, limits sales reach. Expanding vendor networks in these areas presents a major growth opportunity.
 - Data revealed an inverse relationship between customer distance and profit, confirming that geographically closer markets deliver higher profitability, a trend consistent across the past operational period.
 
+<img width="1018" height="214" alt="image" src="https://github.com/user-attachments/assets/7412c51f-b7f4-4309-83c1-0962f0a6df0b" />
+
 #### Facility Productivity and Optimisation
 - Regression analysis produced an adjusted R² value of 0.9991, suggesting overfitting and limited practical insight, highlighting the need for improved analytical modelling in production forecasting.
 - North America hosts the highest number of facilities but also shows the oldest average facility age and the highest discard rates, which correlates with lower production efficiency and higher operational costs.
 - Facilities in Asia and Africa exhibited the lowest discard rates and higher unit reliability, likely due to newer infrastructure and modern equipment. This suggests that reducing facility age could improve output by up to 20 percent.
+
+<img width="939" height="494" alt="image" src="https://github.com/user-attachments/assets/65459b86-0767-4799-bb17-e2be793b12c8" />
 
 #### Product Innovation and Quality Improvement
 - The majority of Artec’s toy lines fall into the high-quality category, reflecting consistent production standards. However, increasing this share could further enhance competitiveness and drive customer satisfaction scores closer to the target of 4.5 out of 5.
 - The Plush product line, while lower in order volume, achieved the highest average profit per unit, suggesting product design and quality directly influence profitability. Historically, higher-quality offerings have translated to stronger customer loyalty and pricing power.
 - Rebalancing marketing expenditure, such as reallocating up to 50 percent of the ‘Gifts’ marketing budget toward ‘Plush’, could yield higher return on marketing investment based on profitability-to-spend ratios.
 
+<img width="939" height="495" alt="image" src="https://github.com/user-attachments/assets/b8e58339-23bf-4710-8cf7-cbb10fe2f4b0" />
+
 #### Customer Satisfaction and Retention
 - Customer service representative performance averaged 60 percent (equivalent to a 3.0 out of 5 rating), falling short of Artec’s 4.5 out of 5 satisfaction target, signaling a need for service quality improvement initiatives.
 - Profitability was found to decline with greater customer distance, reinforcing the value of proximity-based customer engagement strategies such as regional distribution hubs or localized e-commerce platforms.
 - Market clustering insights enable Artec to tailor marketing and service strategies, improving satisfaction among high-value segments while addressing underserved customer groups with customized offerings.
 
+<img width="939" height="495" alt="image" src="https://github.com/user-attachments/assets/b4c781a8-f4b8-43d9-bce1-51c1f1ef656f" />
+
 #### Corporate Sustainability and Strategic Planning
 - High discard rates in older facilities, particularly in North America, represent both a cost inefficiency and an environmental sustainability concern, with potential waste reduction of 10 to 15 percent achievable through modernization and improved quality control.
 - Local sourcing and regional production optimization could reduce product costs by up to 20 percent, aligning with Artec’s five-year operational efficiency goals and sustainability commitments.
 - The alignment between customer and facility locations demonstrates a historically strong strategic network, providing a foundation for further sustainability-driven logistics optimization such as reduced transport emissions and faster order fulfillment.
+
+<img width="940" height="158" alt="image" src="https://github.com/user-attachments/assets/ece79c59-fde3-4606-8900-76e62e878962" />
 
 ## Recommendations
 Based on the uncovered insights, the following recommendations have been provided:
